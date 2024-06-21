@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0B484EBC2C26162D00B1C582 /* ApexPredator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B484EBB2C26162D00B1C582 /* ApexPredator.swift */; };
+		0B484EBE2C261CE600B1C582 /* Predators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B484EBD2C261CE600B1C582 /* Predators.swift */; };
 		0BCFCBA92C1E462600A34937 /* JPApexPredatorsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BCFCBA82C1E462600A34937 /* JPApexPredatorsApp.swift */; };
 		0BCFCBAB2C1E462600A34937 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BCFCBAA2C1E462600A34937 /* ContentView.swift */; };
 		0BCFCBAD2C1E462800A34937 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BCFCBAC2C1E462800A34937 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		0B484EBB2C26162D00B1C582 /* ApexPredator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApexPredator.swift; sourceTree = "<group>"; };
+		0B484EBD2C261CE600B1C582 /* Predators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Predators.swift; sourceTree = "<group>"; };
 		0BCFCBA52C1E462600A34937 /* JPApexPredators.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JPApexPredators.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BCFCBA82C1E462600A34937 /* JPApexPredatorsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JPApexPredatorsApp.swift; sourceTree = "<group>"; };
 		0BCFCBAA2C1E462600A34937 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				0BCFCBA82C1E462600A34937 /* JPApexPredatorsApp.swift */,
 				0BCFCBAA2C1E462600A34937 /* ContentView.swift */,
 				0B484EBB2C26162D00B1C582 /* ApexPredator.swift */,
+				0B484EBD2C261CE600B1C582 /* Predators.swift */,
 				0BCFCBB62C1E47CA00A34937 /* jpapexpredators.json */,
 				0BCFCBAC2C1E462800A34937 /* Assets.xcassets */,
 				0BCFCBAE2C1E462800A34937 /* Preview Content */,
@@ -146,6 +149,7 @@
 			files = (
 				0B484EBC2C26162D00B1C582 /* ApexPredator.swift in Sources */,
 				0BCFCBAB2C1E462600A34937 /* ContentView.swift in Sources */,
+				0B484EBE2C261CE600B1C582 /* Predators.swift in Sources */,
 				0BCFCBA92C1E462600A34937 /* JPApexPredatorsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
