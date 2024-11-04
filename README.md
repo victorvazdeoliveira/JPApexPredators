@@ -2,7 +2,7 @@
 
 Olá, leitor(a).
 
-Nesse projetoto foi criado um aplicativo de iOS que captada informações de dinossauro em um arquivo JSON e cria uma lista com os mesmo, que pode ser filtrada por tipo de dinossauro e ordanado ordem alfabética. Ao clicar em algum item da lista é aberto uma janela de detalhes do dinossauro, contendo até mesmo o local do dinossauro na API de Mapas da Apple.
+Nesse projeto foi criado um aplicativo de iOS que captada informações de dinossauro em um arquivo JSON e cria uma lista com os mesmo, que pode ser filtrada por tipo de dinossauro e ordanado ordem alfabética. Ao clicar em algum item da lista é aberto uma janela de detalhes do dinossauro, contendo até mesmo o local do dinossauro na API de Mapas da Apple.
 
 ![Página inicial do app](https://i.imgur.com/yoOKzVX.png)
 
